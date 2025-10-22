@@ -3,7 +3,7 @@ A relative small tools to help recover from hidden files virus and regain owners
 
 Features:
 
-- Change all files and folders ownership is directory to the admin
+- Change all files and folders ownership in directory to the admin account
 - Change attribute for all files and folders to unhide
 - Using elevated permissions, bypass any system blockage that disallow admin from making change on folders/file attribute
 
